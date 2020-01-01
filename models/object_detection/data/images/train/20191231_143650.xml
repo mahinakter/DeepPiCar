@@ -1,0 +1,86 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20191231_143650.jpg</filename>
+	<path>C:\Users\Kal\OneDrive - Kal Academy\Documents\Materials\AI Bootcamp\Materials\Data\SelfDrivingCar\images\20191231_143650.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Speed Limit 55</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>297</xmin>
+			<ymin>1461</ymin>
+			<xmax>989</xmax>
+			<ymax>2092</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Railroad Crossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>695</ymin>
+			<xmax>916</xmax>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1822</xmin>
+			<ymin>886</ymin>
+			<xmax>2086</xmax>
+			<ymax>1320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Yield Sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2314</xmin>
+			<ymin>492</ymin>
+			<xmax>2628</xmax>
+			<ymax>795</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3044</xmin>
+			<ymin>759</ymin>
+			<xmax>3286</xmax>
+			<ymax>1167</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3480</xmin>
+			<ymin>442</ymin>
+			<xmax>3750</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>

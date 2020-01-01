@@ -1,0 +1,62 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20191231_143705.jpg</filename>
+	<path>C:\Users\Kal\OneDrive - Kal Academy\Documents\Materials\AI Bootcamp\Materials\Data\SelfDrivingCar\images\20191231_143705.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>605</xmin>
+			<ymin>911</ymin>
+			<xmax>964</xmax>
+			<ymax>1461</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Speed Limit 35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1594</xmin>
+			<ymin>436</ymin>
+			<xmax>1933</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2500</xmin>
+			<ymin>800</ymin>
+			<xmax>2783</xmax>
+			<ymax>1367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Do Not Enter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3119</xmin>
+			<ymin>373</ymin>
+			<xmax>3530</xmax>
+			<ymax>831</ymax>
+		</bndbox>
+	</object>
+</annotation>
